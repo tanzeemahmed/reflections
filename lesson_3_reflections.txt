@@ -1,1 +1,2 @@
-Example
+When would you want to use a remote repository rather than keeping all your work local?
+ Ans : When I need to share my code or dcouments with others working on the same thing, I would want to share them across Github and hence have a remote repository.
