@@ -9,5 +9,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 Ans. Forks are used to clone directories from another github repository on to your own account. This also leaves a trail unlike clone,
      where you need to clone the repository on to your local and then commit back onto your github which does not leave a trail.
-     Branches are used when we need to work on  a new feature and split from an existing master branch and merge later. 
+     Branches are used when we need to work on  a new feature and split from an existing master branch and merge later.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans : It helps us merge 2 files with conflicting content on remote and local branches. 
 
